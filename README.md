@@ -13,6 +13,13 @@ I live in Turkey, Istanbul.
 <a href="https://linkedin.com/in/sufuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sufuk" height="30" width="40" /></a>
 <a href="https://instagram.com/sufukguler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sufukguler" height="30" width="40" /></a>
 
+</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufuk&theme=radical&show_icons=true&locale=en&layout=compact)" alt="sufuk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sufuk&show_icons=true&theme=radical&locale=en") alt="sufuk" /></p>
+
+
+
 ##### Specialties:
 
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
