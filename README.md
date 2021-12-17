@@ -14,7 +14,7 @@ I live in Turkey, Istanbul.
 <a href="https://instagram.com/sufukguler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sufukguler" height="30" width="40" /></a>
 
 </p>
-<p><img align="center" src="https://github-readme-stats-sufuk.vercel.app/api/top-langs?username=sufuk&theme=radical&show_icons=true&locale=en&layout=compact)" alt="sufuk" /></p>
+<p><img align="center" src="https://github-readme-stats-sufuk.vercel.app/api/top-langs?username=sufuk&count_private=true&theme=radical&show_icons=true&locale=en&layout=compact)" alt="sufuk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sufuk.vercel.app/api?username=sufuk&count_private=true&show_icons=true&theme=radical&locale=en") alt="sufuk" /></p>
 
