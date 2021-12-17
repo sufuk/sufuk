@@ -16,7 +16,7 @@ I live in Turkey, Istanbul.
 </p>
 <p><img align="center" src="https://github-readme-stats-sufuk.vercel.app/api/top-langs?username=sufuk&theme=radical&show_icons=true&locale=en&layout=compact)" alt="sufuk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sufuk.vercel.app/api?username=sufuk&show_icons=true&theme=radical&locale=en") alt="sufuk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sufuk.vercel.app/api?username=sufuk&count_private=true&show_icons=true&theme=radical&locale=en") alt="sufuk" /></p>
 
 
 
