@@ -34,4 +34,4 @@ I live in Turkey, Istanbul.
 </a> <a href="https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1" target="_blank"> <img src="https://defkey.com/content/images/program/eagle-9.5.2-2020-01-10_01-00-40-icon-resized.png" alt="autodeskeagle" width="40" height="40"/>
 </a> <a href="https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="autodeskeagle" width="40" height="40"/>
   
- 
+ .
