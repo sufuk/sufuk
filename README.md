@@ -14,10 +14,9 @@ I live in Turkey, Istanbul.
 <a href="https://instagram.com/sufukguler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sufukguler" height="30" width="40" /></a>
 
 </p>
-<p><img align="center" src="https://github-readme-stats-sufuk.vercel.app/api/top-langs?username=sufuk&count_private=true&theme=radical&show_icons=true&locale=en&layout=compact)" alt="sufuk" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufuk&count_private=true&langs_count=6&theme=radical&show_icons=true&locale=en&layout=compact)" alt="sufuk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sufuk.vercel.app/api?username=sufuk&count_private=true&show_icons=true&theme=radical&locale=en") alt="sufuk" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sufuk&count_private=true&show_icons=true&theme=radical&locale=en") alt="sufuk" /></p>
 
 
 ##### Specialties:
@@ -34,4 +33,3 @@ I live in Turkey, Istanbul.
 </a> <a href="https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1" target="_blank"> <img src="https://defkey.com/content/images/program/eagle-9.5.2-2020-01-10_01-00-40-icon-resized.png" alt="autodeskeagle" width="40" height="40"/>
 </a> <a href="https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="autodeskeagle" width="40" height="40"/>
   
- .
