@@ -4,8 +4,6 @@ Junior software developer at morning, Dovahkiin at night, Wastelander at weekend
 
 I live in Turkey, Istanbul.
 
-- 🔭 I’m currently working in [Iradets](https://iradets.com/) 
-- 🌱 I’m in development team of [MRADSIM](https://www.mradsim.com)
 - 📝 Check my website: [sufuk.net](http://sufuk.net/) 
 - 📫 You reach me from: **sufukguler@gmail.com**
 
