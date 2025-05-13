@@ -8,7 +8,6 @@ I live in Turkey, Istanbul.
 
 #### Lets keep in touch !! 
 <a href="https://linkedin.com/in/sufuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sufuk" height="30" width="40" /></a>
-<a href="https://instagram.com/sufukguler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sufukguler" height="30" width="40" /></a>
 
 </p>
 
